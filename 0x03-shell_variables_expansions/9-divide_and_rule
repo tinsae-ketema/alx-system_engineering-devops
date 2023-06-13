@@ -1,2 +1,2 @@
 #!/bin/bash
-ehco $((OOWER/DIVIDE))
+ehco $((POWER/DIVIDE))
